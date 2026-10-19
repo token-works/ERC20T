@@ -2,6 +2,8 @@
 
 Fixed-supply ERC20 tokens with a shared Uniswap v4 tax hook, adapted from FWA. A permissionless factory creates inexpensive token clones and can launch each token's pool in the same transaction. Tokens have independent owners, fees and transfer settings; fees are paid in native ETH.
 
+Ethereum and Robinhood contract addresses are listed in [DEPLOYMENTS.md](DEPLOYMENTS.md).
+
 ## Contracts
 
 | Contract | Purpose |
