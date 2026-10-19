@@ -1,0 +1,16 @@
+# Build and execution artifacts
+out/
+cache/
+broadcast/
+coverage/
+lcov.info
+
+# Credentials and machine-specific files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+.idea/
+.vscode/
